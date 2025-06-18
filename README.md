@@ -3,7 +3,7 @@ repositorio de ejemplo
 
 <hr>
 
-<h2>pasos para compilar el proyecto</h2>
+<h2>Pasos para compilar el proyecto</h2>
 <ol>
   <li>Instalar el proyecto</li>
   <li>Clonar el proyecto</li>
