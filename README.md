@@ -9,4 +9,4 @@ repositorio de ejemplo
   <li>Clonar el proyecto</li>
   <li>me jugaron kikiriwiki chamo</li>
 </ol>
-<img src="https://images6.alphacoders.com/123/1233948.png" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQorB_FRoAuMbC0erHnFUdYTIj5CrN606xxQw&s"/>
